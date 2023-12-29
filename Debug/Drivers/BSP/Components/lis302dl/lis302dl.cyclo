@@ -1,0 +1,12 @@
+../Drivers/BSP/Components/lis302dl/lis302dl.c:122:6:LIS302DL_Init	1
+../Drivers/BSP/Components/lis302dl/lis302dl.c:140:6:LIS302DL_DeInit	1
+../Drivers/BSP/Components/lis302dl/lis302dl.c:150:9:LIS302DL_ReadID	1
+../Drivers/BSP/Components/lis302dl/lis302dl.c:169:6:LIS302DL_FilterConfig	1
+../Drivers/BSP/Components/lis302dl/lis302dl.c:193:6:LIS302DL_InterruptConfig	1
+../Drivers/BSP/Components/lis302dl/lis302dl.c:214:6:LIS302DL_Click_IntConfig	1
+../Drivers/BSP/Components/lis302dl/lis302dl.c:266:6:LIS302DL_Click_IntClear	1
+../Drivers/BSP/Components/lis302dl/lis302dl.c:283:6:LIS302DL_LowpowerCmd	1
+../Drivers/BSP/Components/lis302dl/lis302dl.c:306:6:LIS302DL_DataRateCmd	1
+../Drivers/BSP/Components/lis302dl/lis302dl.c:329:6:LIS302DL_FullScaleCmd	1
+../Drivers/BSP/Components/lis302dl/lis302dl.c:349:6:LIS302DL_RebootCmd	1
+../Drivers/BSP/Components/lis302dl/lis302dl.c:368:6:LIS302DL_ReadACC	5
